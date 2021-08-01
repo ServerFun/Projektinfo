@@ -7,6 +7,6 @@
 
 > *Projektinformationen:*
 > 
-[Projektseite](https://serverfun.de "Projektname: Serverfun")
+[Projektseite](https://serverfun.de/forum "Projektname: Serverfun")
 > 
-[Discord](https://dsc.gg/serverfunmc "Projektdiscord: Serverfun")
+[Discord](https://serverfun.de/discord "Projektdiscord: Serverfun")
